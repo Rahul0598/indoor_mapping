@@ -1,0 +1,1935 @@
+{
+  "connections": [
+    {
+      "from": "E267",
+      "id": "conn_0",
+      "to": "Corridor 11",
+      "type": "room_corridor",
+      "weight": 13
+    },
+    {
+      "from": "227",
+      "id": "conn_1",
+      "to": "Corridor 7",
+      "type": "room_corridor",
+      "weight": 21
+    },
+    {
+      "from": "225",
+      "id": "conn_2",
+      "to": "Corridor 7",
+      "type": "room_corridor",
+      "weight": 10
+    },
+    {
+      "from": "223",
+      "id": "conn_3",
+      "to": "Corridor 7",
+      "type": "room_corridor",
+      "weight": 10
+    },
+    {
+      "from": "E265",
+      "id": "conn_4",
+      "to": "Corridor 10",
+      "type": "room_corridor",
+      "weight": 19
+    },
+    {
+      "from": "E265",
+      "id": "conn_5",
+      "to": "Corridor 11",
+      "type": "room_corridor",
+      "weight": 7
+    },
+    {
+      "from": "E263",
+      "id": "conn_6",
+      "to": "Corridor 11",
+      "type": "room_corridor",
+      "weight": 10
+    },
+    {
+      "from": "E261",
+      "id": "conn_7",
+      "to": "Corridor 11",
+      "type": "room_corridor",
+      "weight": 7
+    },
+    {
+      "from": "E259",
+      "id": "conn_8",
+      "to": "Corridor 11",
+      "type": "room_corridor",
+      "weight": 3
+    },
+    {
+      "from": "E257",
+      "id": "conn_9",
+      "to": "Corridor 11",
+      "type": "room_corridor",
+      "weight": 7
+    },
+    {
+      "from": "E255",
+      "id": "conn_10",
+      "to": "Corridor 11",
+      "type": "room_corridor",
+      "weight": 25
+    },
+    {
+      "from": "E255",
+      "id": "conn_11",
+      "to": "Corridor 76",
+      "type": "room_corridor",
+      "weight": 14
+    },
+    {
+      "from": "E260",
+      "id": "conn_12",
+      "to": "Corridor 9",
+      "type": "room_corridor",
+      "weight": 25
+    },
+    {
+      "from": "E260",
+      "id": "conn_13",
+      "to": "Corridor 10",
+      "type": "room_corridor",
+      "weight": 13
+    },
+    {
+      "from": "E260",
+      "id": "conn_14",
+      "to": "Corridor 12",
+      "type": "room_corridor",
+      "weight": 19
+    },
+    {
+      "from": "E258",
+      "id": "conn_15",
+      "to": "Corridor 12",
+      "type": "room_corridor",
+      "weight": 6
+    },
+    {
+      "from": "E256A",
+      "id": "conn_16",
+      "to": "Corridor 12",
+      "type": "room_corridor",
+      "weight": 6
+    },
+    {
+      "from": "E256",
+      "id": "conn_17",
+      "to": "Corridor 12",
+      "type": "room_corridor",
+      "weight": 22
+    },
+    {
+      "from": "E200",
+      "id": "conn_18",
+      "to": "Corridor 14",
+      "type": "room_corridor",
+      "weight": 12
+    },
+    {
+      "from": "231",
+      "id": "conn_19",
+      "to": "Corridor 30",
+      "type": "room_corridor",
+      "weight": 14
+    },
+    {
+      "from": "233",
+      "id": "conn_20",
+      "to": "Corridor 30",
+      "type": "room_corridor",
+      "weight": 17
+    },
+    {
+      "from": "E235",
+      "id": "conn_21",
+      "to": "Corridor 30",
+      "type": "room_corridor",
+      "weight": 13
+    },
+    {
+      "from": "232",
+      "id": "conn_22",
+      "to": "Corridor 7",
+      "type": "room_corridor",
+      "weight": 11
+    },
+    {
+      "from": "232",
+      "id": "conn_23",
+      "to": "Corridor 30",
+      "type": "room_corridor",
+      "weight": 13
+    },
+    {
+      "from": "213",
+      "id": "conn_24",
+      "to": "Corridor 32",
+      "type": "room_corridor",
+      "weight": 22
+    },
+    {
+      "from": "202",
+      "id": "conn_25",
+      "to": "Corridor 30",
+      "type": "room_corridor",
+      "weight": 13
+    },
+    {
+      "from": "204",
+      "id": "conn_26",
+      "to": "Corridor 31",
+      "type": "room_corridor",
+      "weight": 18
+    },
+    {
+      "from": "210",
+      "id": "conn_27",
+      "to": "Corridor 32",
+      "type": "room_corridor",
+      "weight": 0
+    },
+    {
+      "from": "201A",
+      "id": "conn_28",
+      "to": "Corridor 31",
+      "type": "room_corridor",
+      "weight": 25
+    },
+    {
+      "from": "201A",
+      "id": "conn_29",
+      "to": "Corridor 83",
+      "type": "room_corridor",
+      "weight": 17
+    },
+    {
+      "from": "201B",
+      "id": "conn_30",
+      "to": "Corridor 31",
+      "type": "room_corridor",
+      "weight": 25
+    },
+    {
+      "from": "203",
+      "id": "conn_31",
+      "to": "Corridor 31",
+      "type": "room_corridor",
+      "weight": 25
+    },
+    {
+      "from": "209",
+      "id": "conn_32",
+      "to": "Corridor 32",
+      "type": "room_corridor",
+      "weight": 22
+    },
+    {
+      "from": "211",
+      "id": "conn_33",
+      "to": "Corridor 32",
+      "type": "room_corridor",
+      "weight": 22
+    },
+    {
+      "from": "E202",
+      "id": "conn_34",
+      "to": "Corridor 14",
+      "type": "room_corridor",
+      "weight": 4
+    },
+    {
+      "from": "E204",
+      "id": "conn_35",
+      "to": "Corridor 14",
+      "type": "room_corridor",
+      "weight": 8
+    },
+    {
+      "from": "E201",
+      "id": "conn_36",
+      "to": "Corridor 14",
+      "type": "room_corridor",
+      "weight": 18
+    },
+    {
+      "from": "E203",
+      "id": "conn_37",
+      "to": "Corridor 14",
+      "type": "room_corridor",
+      "weight": 22
+    },
+    {
+      "from": "E205",
+      "id": "conn_38",
+      "to": "Corridor 14",
+      "type": "room_corridor",
+      "weight": 18
+    },
+    {
+      "from": "E241",
+      "id": "conn_39",
+      "to": "Corridor 51",
+      "type": "room_corridor",
+      "weight": 12
+    },
+    {
+      "from": "E239",
+      "id": "conn_40",
+      "to": "Corridor 51",
+      "type": "room_corridor",
+      "weight": 4
+    },
+    {
+      "from": "E237",
+      "id": "conn_41",
+      "to": "Corridor 51",
+      "type": "room_corridor",
+      "weight": 0
+    },
+    {
+      "from": "E240",
+      "id": "conn_42",
+      "to": "Corridor 51",
+      "type": "room_corridor",
+      "weight": 10
+    },
+    {
+      "from": "E238",
+      "id": "conn_43",
+      "to": "Corridor 51",
+      "type": "room_corridor",
+      "weight": 14
+    },
+    {
+      "from": "E235",
+      "id": "conn_44",
+      "to": "Corridor 51",
+      "type": "room_corridor",
+      "weight": 13
+    },
+    {
+      "from": "E233",
+      "id": "conn_45",
+      "to": "Corridor 51",
+      "type": "room_corridor",
+      "weight": 4
+    },
+    {
+      "from": "E236",
+      "id": "conn_46",
+      "to": "Corridor 51",
+      "type": "room_corridor",
+      "weight": 10
+    },
+    {
+      "from": "E242",
+      "id": "conn_47",
+      "to": "Corridor 51",
+      "type": "room_corridor",
+      "weight": 10
+    },
+    {
+      "from": "E234",
+      "id": "conn_48",
+      "to": "Corridor 51",
+      "type": "room_corridor",
+      "weight": 10
+    },
+    {
+      "from": "E231",
+      "id": "conn_49",
+      "to": "Corridor 51",
+      "type": "room_corridor",
+      "weight": 8
+    },
+    {
+      "from": "E231",
+      "id": "conn_50",
+      "to": "Corridor 53",
+      "type": "room_corridor",
+      "weight": 26
+    },
+    {
+      "from": "E232",
+      "id": "conn_51",
+      "to": "Corridor 51",
+      "type": "room_corridor",
+      "weight": 14
+    },
+    {
+      "from": "E230",
+      "id": "conn_52",
+      "to": "Corridor 51",
+      "type": "room_corridor",
+      "weight": 5
+    },
+    {
+      "from": "E230",
+      "id": "conn_53",
+      "to": "Corridor 54",
+      "type": "room_corridor",
+      "weight": 21
+    },
+    {
+      "from": "E226B",
+      "id": "conn_54",
+      "to": "Corridor 52",
+      "type": "room_corridor",
+      "weight": 21
+    },
+    {
+      "from": "E226B",
+      "id": "conn_55",
+      "to": "Corridor 55",
+      "type": "room_corridor",
+      "weight": 17
+    },
+    {
+      "from": "E222",
+      "id": "conn_56",
+      "to": "Corridor 52",
+      "type": "room_corridor",
+      "weight": 26
+    },
+    {
+      "from": "200",
+      "id": "conn_57",
+      "to": "Corridor 84",
+      "type": "room_corridor",
+      "weight": 17
+    },
+    {
+      "from": "E250",
+      "id": "conn_58",
+      "to": "Corridor 10",
+      "type": "room_corridor",
+      "weight": 17
+    },
+    {
+      "from": "E250",
+      "id": "conn_59",
+      "to": "Corridor 11",
+      "type": "room_corridor",
+      "weight": 13
+    },
+    {
+      "from": "E250",
+      "id": "conn_60",
+      "to": "Corridor 12",
+      "type": "room_corridor",
+      "weight": 11
+    },
+    {
+      "from": "E250",
+      "id": "conn_61",
+      "to": "Corridor 76",
+      "type": "room_corridor",
+      "weight": 13
+    },
+    {
+      "from": "Corridor 7",
+      "id": "conn_62",
+      "to": "Corridor 8",
+      "type": "corridor_corridor",
+      "weight": 0
+    },
+    {
+      "from": "Corridor 7",
+      "id": "conn_63",
+      "to": "Corridor 30",
+      "type": "corridor_corridor",
+      "weight": 0
+    },
+    {
+      "from": "Corridor 7",
+      "id": "conn_64",
+      "to": "Corridor 32",
+      "type": "corridor_corridor",
+      "weight": 0
+    },
+    {
+      "from": "Corridor 8",
+      "id": "conn_65",
+      "to": "Corridor 9",
+      "type": "corridor_corridor",
+      "weight": 0
+    },
+    {
+      "from": "Corridor 9",
+      "id": "conn_66",
+      "to": "Corridor 10",
+      "type": "corridor_corridor",
+      "weight": 0
+    },
+    {
+      "from": "Corridor 10",
+      "id": "conn_67",
+      "to": "Corridor 11",
+      "type": "corridor_corridor",
+      "weight": 0
+    },
+    {
+      "from": "Corridor 10",
+      "id": "conn_68",
+      "to": "Corridor 12",
+      "type": "corridor_corridor",
+      "weight": 0
+    },
+    {
+      "from": "Corridor 11",
+      "id": "conn_69",
+      "to": "Corridor 76",
+      "type": "corridor_corridor",
+      "weight": 0
+    },
+    {
+      "from": "Corridor 12",
+      "id": "conn_70",
+      "to": "Corridor 76",
+      "type": "corridor_corridor",
+      "weight": 0
+    },
+    {
+      "from": "Corridor 31",
+      "id": "conn_71",
+      "to": "Corridor 32",
+      "type": "corridor_corridor",
+      "weight": 0
+    },
+    {
+      "from": "Corridor 31",
+      "id": "conn_72",
+      "to": "Corridor 83",
+      "type": "corridor_corridor",
+      "weight": 0
+    },
+    {
+      "from": "Corridor 51",
+      "id": "conn_73",
+      "to": "Corridor 54",
+      "type": "corridor_corridor",
+      "weight": 0
+    },
+    {
+      "from": "Corridor 52",
+      "id": "conn_74",
+      "to": "Corridor 55",
+      "type": "corridor_corridor",
+      "weight": 0
+    },
+    {
+      "from": "Corridor 53",
+      "id": "conn_75",
+      "to": "Corridor 54",
+      "type": "corridor_corridor",
+      "weight": 0
+    },
+    {
+      "from": "Corridor 54",
+      "id": "conn_76",
+      "to": "Corridor 55",
+      "type": "corridor_corridor",
+      "weight": 0
+    },
+    {
+      "from": "Corridor 83",
+      "id": "conn_77",
+      "to": "Corridor 84",
+      "type": "corridor_corridor",
+      "weight": 0
+    },
+    {
+      "from": "E218",
+      "id": "conn_78",
+      "to": "E216A",
+      "type": "adjacent",
+      "weight": 9
+    },
+    {
+      "from": "E216A",
+      "id": "conn_79",
+      "to": "E210A",
+      "type": "adjacent",
+      "weight": 4
+    },
+    {
+      "from": "Staircase 13",
+      "id": "conn_80",
+      "to": "Corridor 12",
+      "type": "staircase_corridor",
+      "weight": 12
+    },
+    {
+      "from": "Staircase 13",
+      "id": "conn_81",
+      "to": "Corridor 14",
+      "type": "staircase_corridor",
+      "weight": 0
+    },
+    {
+      "from": "Staircase 13",
+      "id": "conn_82",
+      "to": "Corridor 76",
+      "type": "staircase_corridor",
+      "weight": 2
+    },
+    {
+      "from": "Staircase 69",
+      "id": "conn_83",
+      "to": "Corridor 52",
+      "type": "staircase_corridor",
+      "weight": 21
+    },
+    {
+      "from": "299A",
+      "id": "conn_84",
+      "to": "Corridor 30",
+      "type": "staircase_corridor",
+      "weight": 5
+    },
+    {
+      "from": "299A",
+      "id": "conn_85",
+      "to": "Corridor 31",
+      "type": "staircase_corridor",
+      "weight": 9
+    },
+    {
+      "from": "299A",
+      "id": "conn_86",
+      "to": "Corridor 83",
+      "type": "staircase_corridor",
+      "weight": 14
+    },
+    {
+      "from": "299A",
+      "id": "conn_87",
+      "to": "Corridor 84",
+      "type": "staircase_corridor",
+      "weight": 21
+    },
+    {
+      "from": "E299B",
+      "id": "conn_88",
+      "to": "Corridor 7",
+      "type": "staircase_corridor",
+      "weight": 0
+    },
+    {
+      "from": "299D",
+      "id": "conn_89",
+      "to": "Corridor 31",
+      "type": "staircase_corridor",
+      "weight": 13
+    },
+    {
+      "from": "299D",
+      "id": "conn_90",
+      "to": "Corridor 32",
+      "type": "staircase_corridor",
+      "weight": 18
+    },
+    {
+      "from": "229",
+      "id": "conn_91",
+      "to": "Corridor 7",
+      "type": "elevator_corridor",
+      "weight": 15
+    },
+    {
+      "from": "Elevator 15",
+      "id": "conn_92",
+      "to": "Corridor 14",
+      "type": "elevator_corridor",
+      "weight": 0
+    },
+    {
+      "from": "235",
+      "id": "conn_93",
+      "to": "Corridor 30",
+      "type": "room_corridor",
+      "weight": 13
+    },
+    {
+      "from": "E210C",
+      "id": "conn_94",
+      "to": "Corridor 1",
+      "type": "room_corridor",
+      "weight": 0
+    },
+    {
+      "from": "E210C",
+      "id": "conn_95",
+      "to": "Corridor 2",
+      "type": "room_corridor",
+      "weight": 0
+    },
+    {
+      "from": "E216A",
+      "id": "conn_96",
+      "to": "Corridor 1",
+      "type": "room_corridor",
+      "weight": 22
+    },
+    {
+      "from": "E210A",
+      "id": "conn_97",
+      "to": "Corridor 1",
+      "type": "room_corridor",
+      "weight": 18
+    },
+    {
+      "from": "Corridor 52",
+      "id": "conn_98",
+      "to": "Corridor 2",
+      "type": "corridor_corridor",
+      "weight": 0
+    },
+    {
+      "from": "Corridor 1",
+      "id": "conn_99",
+      "to": "Corridor 2",
+      "type": "corridor_corridor",
+      "weight": 0
+    },
+    {
+      "from": "room_41",
+      "id": "conn_100",
+      "to": "corridor_31",
+      "type": "manual"
+    },
+    {
+      "from": "room_42",
+      "id": "conn_101",
+      "to": "corridor_31",
+      "type": "manual",
+      "weight": null
+    },
+    {
+      "from": "room_41",
+      "id": "conn_102",
+      "to": "corridor_32",
+      "type": "manual",
+      "weight": null
+    }
+  ],
+  "metadata": {
+    "image_height": 2560,
+    "image_path": "uploads/floor_plan.png",
+    "image_width": 5732
+  },
+  "nodes": [
+    {
+      "bbox": [
+        1820,
+        55,
+        317,
+        234
+      ],
+      "confidence": 100,
+      "id": "room_1",
+      "label": "E267",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        635,
+        533,
+        218,
+        390
+      ],
+      "confidence": 100,
+      "id": "elevator_2",
+      "label": "229",
+      "notes": "",
+      "tags": [],
+      "type": "elevator"
+    },
+    {
+      "bbox": [
+        890,
+        538,
+        223,
+        379
+      ],
+      "confidence": 100,
+      "id": "elevator_3",
+      "label": "227",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        1134,
+        538,
+        239,
+        390
+      ],
+      "confidence": 100,
+      "id": "elevator_4",
+      "label": "225",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        1404,
+        538,
+        229,
+        390
+      ],
+      "confidence": 100,
+      "id": "elevator_5",
+      "label": "223",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        473,
+        938,
+        1547,
+        87
+      ],
+      "confidence": 100,
+      "id": "corridor_7",
+      "label": "Corridor 7",
+      "notes": "",
+      "tags": [],
+      "type": "corridor"
+    },
+    {
+      "bbox": [
+        1946,
+        766,
+        79,
+        256
+      ],
+      "confidence": 100,
+      "id": "corridor_8",
+      "label": "Corridor 8",
+      "notes": "",
+      "tags": [],
+      "type": "corridor"
+    },
+    {
+      "bbox": [
+        1968,
+        807,
+        430,
+        91
+      ],
+      "confidence": 100,
+      "id": "corridor_9",
+      "label": "Corridor 9",
+      "notes": "",
+      "tags": [],
+      "type": "corridor"
+    },
+    {
+      "bbox": [
+        2249,
+        314,
+        161,
+        715
+      ],
+      "confidence": 100,
+      "id": "corridor_10",
+      "label": "Corridor 10",
+      "notes": "",
+      "tags": [],
+      "type": "corridor"
+    },
+    {
+      "bbox": [
+        2022,
+        302,
+        1538,
+        82
+      ],
+      "confidence": 100,
+      "id": "corridor_11",
+      "label": "Corridor 11",
+      "notes": "",
+      "tags": [],
+      "type": "corridor"
+    },
+    {
+      "bbox": [
+        2253,
+        649,
+        1308,
+        92
+      ],
+      "confidence": 100,
+      "id": "corridor_12",
+      "label": "Corridor 12",
+      "notes": "",
+      "tags": [],
+      "type": "corridor"
+    },
+    {
+      "bbox": [
+        3573,
+        548,
+        341,
+        193
+      ],
+      "confidence": 100,
+      "id": "staircase_13",
+      "label": "Staircase 13",
+      "notes": "",
+      "tags": [],
+      "type": "staircase"
+    },
+    {
+      "bbox": [
+        3806,
+        741,
+        92,
+        935
+      ],
+      "confidence": 100,
+      "id": "corridor_14",
+      "label": "Corridor 14",
+      "notes": "",
+      "tags": [],
+      "type": "corridor"
+    },
+    {
+      "bbox": [
+        3898,
+        769,
+        281,
+        164
+      ],
+      "confidence": 100,
+      "id": "elevator_15",
+      "label": "Elevator 15",
+      "notes": "",
+      "tags": [],
+      "type": "elevator"
+    },
+    {
+      "bbox": [
+        2148,
+        52,
+        278,
+        243
+      ],
+      "confidence": 100,
+      "id": "room_16",
+      "label": "E265",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        2448,
+        52,
+        278,
+        240
+      ],
+      "confidence": 100,
+      "id": "elevator_17",
+      "label": "E263",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        2736,
+        52,
+        265,
+        243
+      ],
+      "confidence": 100,
+      "id": "room_18",
+      "label": "E261",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        3017,
+        46,
+        272,
+        253
+      ],
+      "confidence": 100,
+      "id": "room_19",
+      "label": "E259",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        3301,
+        52,
+        275,
+        243
+      ],
+      "confidence": 100,
+      "id": "room_20",
+      "label": "E257",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        3585,
+        46,
+        341,
+        452
+      ],
+      "confidence": 100,
+      "id": "elevator_21",
+      "label": "E255",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        2423,
+        760,
+        287,
+        297
+      ],
+      "confidence": 100,
+      "id": "room_22",
+      "label": "E260",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        2729,
+        747,
+        259,
+        294
+      ],
+      "confidence": 100,
+      "id": "room_23",
+      "label": "E258",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        2998,
+        747,
+        246,
+        297
+      ],
+      "confidence": 100,
+      "id": "elevator_24",
+      "label": "E256A",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        3260,
+        763,
+        193,
+        237
+      ],
+      "confidence": 100,
+      "id": "room_25",
+      "label": "E256",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        3500,
+        775,
+        294,
+        215
+      ],
+      "confidence": 100,
+      "id": "room_26",
+      "label": "E200",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        465,
+        1123,
+        258,
+        201
+      ],
+      "confidence": 100,
+      "id": "room_27",
+      "label": "231",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        470,
+        1338,
+        250,
+        206
+      ],
+      "confidence": 100,
+      "id": "room_28",
+      "label": "233",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        448,
+        1570,
+        272,
+        272
+      ],
+      "confidence": 100,
+      "id": "room_29",
+      "label": "235",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        737,
+        983,
+        96,
+        876
+      ],
+      "confidence": 100,
+      "id": "corridor_30",
+      "label": "Corridor 30",
+      "notes": "",
+      "tags": [],
+      "type": "corridor"
+    },
+    {
+      "bbox": [
+        859,
+        2004,
+        1025,
+        88
+      ],
+      "confidence": 100,
+      "id": "corridor_31",
+      "label": "Corridor 31",
+      "notes": "",
+      "tags": [],
+      "type": "corridor"
+    },
+    {
+      "bbox": [
+        1796,
+        983,
+        83,
+        1082
+      ],
+      "confidence": 100,
+      "id": "corridor_32",
+      "label": "Corridor 32",
+      "notes": "",
+      "tags": [],
+      "type": "corridor"
+    },
+    {
+      "bbox": [
+        846,
+        1036,
+        556,
+        512
+      ],
+      "confidence": 100,
+      "id": "room_33",
+      "label": "232",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        1901,
+        1250,
+        328,
+        206
+      ],
+      "confidence": 100,
+      "id": "room_34",
+      "label": "213",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        846,
+        1583,
+        307,
+        385
+      ],
+      "confidence": 100,
+      "id": "room_35",
+      "label": "202",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        1175,
+        1579,
+        223,
+        407
+      ],
+      "confidence": 100,
+      "id": "room_36",
+      "label": "204",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        1577,
+        1062,
+        223,
+        232
+      ],
+      "confidence": 100,
+      "id": "room_37",
+      "label": "210",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        973,
+        2117,
+        241,
+        372
+      ],
+      "confidence": 100,
+      "id": "room_38",
+      "label": "201A",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        1227,
+        2117,
+        245,
+        368
+      ],
+      "confidence": 100,
+      "id": "room_39",
+      "label": "201B",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        1485,
+        2117,
+        250,
+        377
+      ],
+      "confidence": 100,
+      "id": "room_40",
+      "label": "203",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        1753,
+        2126,
+        219,
+        363
+      ],
+      "confidence": 100,
+      "id": "room_41",
+      "label": "205",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        1998,
+        2122,
+        215,
+        377
+      ],
+      "confidence": 100,
+      "id": "room_42",
+      "label": "207",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        1901,
+        1693,
+        337,
+        232
+      ],
+      "confidence": 100,
+      "id": "room_43",
+      "label": "209",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        1901,
+        1474,
+        346,
+        219
+      ],
+      "confidence": 100,
+      "id": "room_44",
+      "label": "211",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        3500,
+        996,
+        302,
+        184
+      ],
+      "confidence": 100,
+      "id": "room_45",
+      "label": "E202",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        3500,
+        1198,
+        298,
+        250
+      ],
+      "confidence": 100,
+      "id": "elevator_46",
+      "label": "E204",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        3916,
+        944,
+        280,
+        219
+      ],
+      "confidence": 100,
+      "id": "room_47",
+      "label": "E201",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        3920,
+        1163,
+        280,
+        188
+      ],
+      "confidence": 100,
+      "id": "room_48",
+      "label": "E203",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        3916,
+        1369,
+        180,
+        215
+      ],
+      "confidence": 100,
+      "id": "room_49",
+      "label": "E205",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        3509,
+        1776,
+        416,
+        193
+      ],
+      "confidence": 100,
+      "id": "elevator_50",
+      "label": "E210C",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        4835,
+        230,
+        109,
+        1481
+      ],
+      "confidence": 100,
+      "id": "corridor_51",
+      "label": "Corridor 51",
+      "notes": "",
+      "tags": [],
+      "type": "corridor"
+    },
+    {
+      "bbox": [
+        3964,
+        1920,
+        850,
+        88
+      ],
+      "confidence": 100,
+      "id": "corridor_52",
+      "label": "Corridor 52",
+      "notes": "",
+      "tags": [],
+      "type": "corridor"
+    },
+    {
+      "bbox": [
+        4376,
+        1487,
+        149,
+        166
+      ],
+      "confidence": 100,
+      "id": "corridor_53",
+      "label": "Corridor 53",
+      "notes": "",
+      "tags": [],
+      "type": "corridor"
+    },
+    {
+      "bbox": [
+        4481,
+        1566,
+        447,
+        96
+      ],
+      "confidence": 100,
+      "id": "corridor_54",
+      "label": "Corridor 54",
+      "notes": "",
+      "tags": [],
+      "type": "corridor"
+    },
+    {
+      "bbox": [
+        4704,
+        1579,
+        114,
+        416
+      ],
+      "confidence": 100,
+      "id": "corridor_55",
+      "label": "Corridor 55",
+      "notes": "",
+      "tags": [],
+      "type": "corridor"
+    },
+    {
+      "bbox": [
+        4468,
+        239,
+        355,
+        201
+      ],
+      "confidence": 100,
+      "id": "room_56",
+      "label": "E241",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        4468,
+        458,
+        363,
+        193
+      ],
+      "confidence": 100,
+      "id": "room_57",
+      "label": "E239",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        4468,
+        664,
+        368,
+        210
+      ],
+      "confidence": 100,
+      "id": "room_58",
+      "label": "E237",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        4954,
+        449,
+        350,
+        201
+      ],
+      "confidence": 100,
+      "id": "elevator_59",
+      "label": "E240",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        4958,
+        664,
+        350,
+        201
+      ],
+      "confidence": 100,
+      "id": "room_60",
+      "label": "E238",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        4546,
+        891,
+        276,
+        201
+      ],
+      "confidence": 100,
+      "id": "room_61",
+      "label": "E235",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        4555,
+        1102,
+        276,
+        219
+      ],
+      "confidence": 100,
+      "id": "room_62",
+      "label": "E233",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        4954,
+        878,
+        337,
+        219
+      ],
+      "confidence": 100,
+      "id": "elevator_63",
+      "label": "E236",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        4954,
+        234,
+        355,
+        206
+      ],
+      "confidence": 100,
+      "id": "room_64",
+      "label": "E242",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        4954,
+        1119,
+        337,
+        193
+      ],
+      "confidence": 100,
+      "id": "room_65",
+      "label": "E234",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        4551,
+        1334,
+        276,
+        201
+      ],
+      "confidence": 100,
+      "id": "elevator_66",
+      "label": "E231",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        4958,
+        1329,
+        315,
+        206
+      ],
+      "confidence": 100,
+      "id": "elevator_67",
+      "label": "E232",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        4949,
+        1561,
+        324,
+        145
+      ],
+      "confidence": 100,
+      "id": "room_68",
+      "label": "E230",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        3973,
+        1706,
+        210,
+        193
+      ],
+      "confidence": 100,
+      "id": "staircase_69",
+      "label": "Staircase 69",
+      "notes": "",
+      "tags": [],
+      "type": "staircase"
+    },
+    {
+      "bbox": [
+        4835,
+        1776,
+        451,
+        219
+      ],
+      "confidence": 100,
+      "id": "room_70",
+      "label": "E226B",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        5019,
+        2012,
+        254,
+        272
+      ],
+      "confidence": 100,
+      "id": "room_71",
+      "label": "E226",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        4844,
+        2301,
+        442,
+        206
+      ],
+      "confidence": 100,
+      "id": "room_72",
+      "label": "E226A",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        4200,
+        2039,
+        171,
+        307
+      ],
+      "confidence": 100,
+      "id": "elevator_73",
+      "label": "E218",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        4402,
+        2047,
+        219,
+        293
+      ],
+      "confidence": 100,
+      "id": "room_74",
+      "label": "E220",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        4647,
+        2034,
+        166,
+        307
+      ],
+      "confidence": 100,
+      "id": "elevator_75",
+      "label": "E222",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        3460,
+        326,
+        111,
+        372
+      ],
+      "confidence": 100,
+      "id": "corridor_76",
+      "label": "Corridor 76",
+      "notes": "",
+      "tags": [],
+      "type": "corridor"
+    },
+    {
+      "bbox": [
+        452,
+        2122,
+        285,
+        368
+      ],
+      "confidence": 100,
+      "id": "room_77",
+      "label": "200",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        456,
+        1864,
+        394,
+        250
+      ],
+      "confidence": 100,
+      "id": "elevator_78",
+      "label": "299A",
+      "notes": "",
+      "tags": [],
+      "type": "staircase"
+    },
+    {
+      "bbox": [
+        456,
+        620,
+        158,
+        333
+      ],
+      "confidence": 100,
+      "id": "staircase_79",
+      "label": "E299B",
+      "notes": "",
+      "tags": [],
+      "type": "staircase"
+    },
+    {
+      "bbox": [
+        1897,
+        1934,
+        346,
+        166
+      ],
+      "confidence": 100,
+      "id": "elevator_80",
+      "label": "299D",
+      "notes": "",
+      "tags": [],
+      "type": "staircase"
+    },
+    {
+      "bbox": [
+        3955,
+        2109,
+        236,
+        420
+      ],
+      "confidence": 100,
+      "id": "room_81",
+      "label": "E216A",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        3500,
+        2214,
+        451,
+        328
+      ],
+      "confidence": 100,
+      "id": "room_82",
+      "label": "E210A",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        864,
+        2074,
+        92,
+        241
+      ],
+      "confidence": 100,
+      "id": "corridor_83",
+      "label": "Corridor 83",
+      "notes": "",
+      "tags": [],
+      "type": "corridor"
+    },
+    {
+      "bbox": [
+        754,
+        2135,
+        153,
+        171
+      ],
+      "confidence": 100,
+      "id": "corridor_84",
+      "label": "Corridor 84",
+      "notes": "",
+      "tags": [],
+      "type": "corridor"
+    },
+    {
+      "bbox": [
+        2427,
+        397,
+        1020,
+        241
+      ],
+      "confidence": 100,
+      "id": "room_85",
+      "label": "E250",
+      "notes": "",
+      "tags": [],
+      "type": "room"
+    },
+    {
+      "bbox": [
+        3831,
+        1941,
+        102,
+        255
+      ],
+      "confidence": 100,
+      "id": "corridor_1",
+      "label": "Corridor 1",
+      "notes": "",
+      "tags": [],
+      "type": "corridor"
+    },
+    {
+      "bbox": [
+        3886,
+        1937,
+        140,
+        64
+      ],
+      "confidence": 100,
+      "id": "corridor_2",
+      "label": "Corridor 2",
+      "notes": "",
+      "tags": [],
+      "type": "corridor"
+    }
+  ]
+}
